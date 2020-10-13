@@ -1,0 +1,12 @@
+dnspython 
+nltk 
+beautifulsoup4 
+pandas 
+google-cloud-langu 
+age 
+opencv-python 
+flask 
+flask_restful 
+feedparser
+wordcloud
+lxml
