@@ -400,12 +400,7 @@ def get_content():
                         client = pymongo.MongoClient()
                         client = client['Bloverse']
                         article_collection = client['articles']
-                        
-                        
-#                         client = pymongo.MongoClient("mongodb+srv://bloverse:b1XNYDtSQNEv5cAn@bloverse-production.fbt75.mongodb.net/blovids?retryWrites=true&w=majority")
-# #                         db = client.test
-#                         client = client['Bloverse']
-#                         article_collection = client['nathan']
+                    
 
 
 
